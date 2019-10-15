@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Creating_Types\Find_Newtons_Root\bin\Debug\netstandard2.0\Find_Newtons_Root.deps.json
+C:\Users\Admin\source\repos\Creating_Types\Find_Newtons_Root\bin\Debug\netstandard2.0\Find_Newtons_Root.dll
+C:\Users\Admin\source\repos\Creating_Types\Find_Newtons_Root\bin\Debug\netstandard2.0\Find_Newtons_Root.pdb
+C:\Users\Admin\source\repos\Creating_Types\Find_Newtons_Root\obj\Debug\netstandard2.0\Find_Newtons_Root.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Creating_Types\Find_Newtons_Root\obj\Debug\netstandard2.0\Find_Newtons_Root.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Creating_Types\Find_Newtons_Root\obj\Debug\netstandard2.0\Find_Newtons_Root.dll
+C:\Users\Admin\source\repos\Creating_Types\Find_Newtons_Root\obj\Debug\netstandard2.0\Find_Newtons_Root.pdb
+C:\Users\Admin\source\repos\Creating_Types\Find_Newtons_Root\obj\Debug\netstandard2.0\Find_Newtons_Root.csprojAssemblyReference.cache

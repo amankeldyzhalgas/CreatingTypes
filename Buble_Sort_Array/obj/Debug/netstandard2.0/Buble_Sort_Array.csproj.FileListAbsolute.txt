@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Creating_Types\Buble_Sort_Array\bin\Debug\netstandard2.0\Buble_Sort_Array.deps.json
+C:\Users\Admin\source\repos\Creating_Types\Buble_Sort_Array\bin\Debug\netstandard2.0\Buble_Sort_Array.dll
+C:\Users\Admin\source\repos\Creating_Types\Buble_Sort_Array\bin\Debug\netstandard2.0\Buble_Sort_Array.pdb
+C:\Users\Admin\source\repos\Creating_Types\Buble_Sort_Array\obj\Debug\netstandard2.0\Buble_Sort_Array.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Creating_Types\Buble_Sort_Array\obj\Debug\netstandard2.0\Buble_Sort_Array.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Creating_Types\Buble_Sort_Array\obj\Debug\netstandard2.0\Buble_Sort_Array.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Creating_Types\Buble_Sort_Array\obj\Debug\netstandard2.0\Buble_Sort_Array.dll
+C:\Users\Admin\source\repos\Creating_Types\Buble_Sort_Array\obj\Debug\netstandard2.0\Buble_Sort_Array.pdb
