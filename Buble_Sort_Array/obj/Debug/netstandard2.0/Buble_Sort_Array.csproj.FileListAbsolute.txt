@@ -6,3 +6,11 @@ C:\Users\Admin\source\repos\Creating_Types\Buble_Sort_Array\obj\Debug\netstandar
 C:\Users\Admin\source\repos\Creating_Types\Buble_Sort_Array\obj\Debug\netstandard2.0\Buble_Sort_Array.AssemblyInfo.cs
 C:\Users\Admin\source\repos\Creating_Types\Buble_Sort_Array\obj\Debug\netstandard2.0\Buble_Sort_Array.dll
 C:\Users\Admin\source\repos\Creating_Types\Buble_Sort_Array\obj\Debug\netstandard2.0\Buble_Sort_Array.pdb
+G:\Мои документы\Рабочий стол\Epam\Tasks\CreatingTypes\Buble_Sort_Array\bin\Debug\netstandard2.0\Buble_Sort_Array.deps.json
+G:\Мои документы\Рабочий стол\Epam\Tasks\CreatingTypes\Buble_Sort_Array\bin\Debug\netstandard2.0\Buble_Sort_Array.dll
+G:\Мои документы\Рабочий стол\Epam\Tasks\CreatingTypes\Buble_Sort_Array\bin\Debug\netstandard2.0\Buble_Sort_Array.pdb
+G:\Мои документы\Рабочий стол\Epam\Tasks\CreatingTypes\Buble_Sort_Array\obj\Debug\netstandard2.0\Buble_Sort_Array.csprojAssemblyReference.cache
+G:\Мои документы\Рабочий стол\Epam\Tasks\CreatingTypes\Buble_Sort_Array\obj\Debug\netstandard2.0\Buble_Sort_Array.AssemblyInfoInputs.cache
+G:\Мои документы\Рабочий стол\Epam\Tasks\CreatingTypes\Buble_Sort_Array\obj\Debug\netstandard2.0\Buble_Sort_Array.AssemblyInfo.cs
+G:\Мои документы\Рабочий стол\Epam\Tasks\CreatingTypes\Buble_Sort_Array\obj\Debug\netstandard2.0\Buble_Sort_Array.dll
+G:\Мои документы\Рабочий стол\Epam\Tasks\CreatingTypes\Buble_Sort_Array\obj\Debug\netstandard2.0\Buble_Sort_Array.pdb

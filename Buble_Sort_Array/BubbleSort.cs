@@ -1,62 +1,55 @@
 ﻿using System;
+using System.Collections;
 
 namespace Buble_Sort_Array
 {
     public class BubbleSort
     {
-        //public static int[,] Generate(int row, int col)
-        //{
-        //    Random rand = new Random();
-        //    int[,] arr = new int[row, col];
-        //    for (int i = 0; i < row; i++)
-        //    {
-        //        for (int j = 0; j < col; j++)
-        //        {
-        //            arr[i, j] = rand.Next(10);
-        //        }
-        //    }
-        //    return arr;
-        //}
-        public static int[][] GenerateMatrix(int row, int col)
+        /// <summary>
+        /// Метод "пузырьковой" сортировки для целочисленного массива.
+        /// </summary>
+        /// <param name="array">Массив.</param>
+        /// <param name="comparer">Реализация для сравнении элементов.</param>
+        /// <exception cref="ArgumentNullException">Массив или реализация имеет значение null.</exception>
+        public static int[][] Sort(int[][] array, IComparer comparer)
         {
-            int[][] matrix = new int[row][];
-            Random rand = new Random();
-            for (int i = 0; i < matrix.Length; i++)
+            if (array is null)
             {
-                matrix[i] = new int[col];
-                for (int j = 0; j < matrix[i].Length; j++)
-                    matrix[i][j] = rand.Next(10);
+                throw new ArgumentNullException(nameof(array));
             }
-            return matrix;
-        }
-
-        public static int[] Sort(int[] array)
-        {
-            int length = array.Length;
-            int temp = array[0];
-            for (int i = 0; i < length; i++)
+            if (comparer is null)
             {
-                for (int j = i + 1; j < length; j++)
+                throw new ArgumentNullException(nameof(comparer));
+            }
+
+            bool isSorted = false;
+            int count = 0;
+            while (!isSorted)
+            {
+                isSorted = true;
+                for (int i = array.Length - 1; i > count; i--)
                 {
-                    if (array[i] > array[j])
+                    if (comparer.Compare(array[i], array[i - 1]) < 0)
                     {
-                        temp = array[i];
-                        array[i] = array[j];
-                        array[j] = temp;
+                        Swap(ref array[i], ref array[i - 1]);
+                        isSorted = false;
                     }
                 }
+                count++;
             }
             return array;
         }
 
-        public static int Sum(int[] array)
+        /// <summary>
+        /// Меняет местами два индекса в массиве.
+        /// </summary>
+        /// <param name="first">Первый индекс.</param>
+        /// <param name="second">Второй индекс.</param>
+        private static void Swap(ref int[] first, ref int[] second)
         {
-            int sum = 0;
-            for (int i = 0; i < array.Length; i++)
-            {
-                sum += array[i];
-            }
-            return sum;
+            var temp = first;
+            first = second;
+            second = temp;
         }
     }
 }

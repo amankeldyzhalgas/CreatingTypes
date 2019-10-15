@@ -4,8 +4,16 @@ using System.Text;
 
 namespace Buble_Sort_Array
 {
-    public class SortByMinNumber: IStrategy
+    /// <summary>
+    /// Реализация алгоритма поиска минимального значения.
+    /// </summary>
+    public class SortByMinOfNumber: IStrategy
     {
+        /// <summary>
+        /// Метод возвращает минимальное значение в одномерном массиве.
+        /// </summary>
+        /// <param name="array">Массив.</param>0
+        /// <returns>Число.</returns>
         public int? Algorithm(int[] array)
         {
             if (array is null)

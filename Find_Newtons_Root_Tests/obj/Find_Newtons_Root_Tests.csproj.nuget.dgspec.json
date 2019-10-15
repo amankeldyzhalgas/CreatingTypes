@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\Creating_Types\\Find_Newtons_Root_Tests\\Find_Newtons_Root_Tests.csproj": {}
+    "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root_Tests\\Find_Newtons_Root_Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\Creating_Types\\Find_Newtons_Root\\Find_Newtons_Root.csproj": {
+    "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root\\Find_Newtons_Root.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Creating_Types\\Find_Newtons_Root\\Find_Newtons_Root.csproj",
+        "projectUniqueName": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root\\Find_Newtons_Root.csproj",
         "projectName": "Find_Newtons_Root",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\Creating_Types\\Find_Newtons_Root\\Find_Newtons_Root.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\Creating_Types\\Find_Newtons_Root\\obj\\",
+        "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root\\Find_Newtons_Root.csproj",
+        "packagesPath": "C:\\Users\\amankeldy_zh\\.nuget\\packages\\",
+        "outputPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\amankeldy_zh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -62,21 +64,23 @@
         }
       }
     },
-    "C:\\Users\\Admin\\source\\repos\\Creating_Types\\Find_Newtons_Root_Tests\\Find_Newtons_Root_Tests.csproj": {
+    "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root_Tests\\Find_Newtons_Root_Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Creating_Types\\Find_Newtons_Root_Tests\\Find_Newtons_Root_Tests.csproj",
+        "projectUniqueName": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root_Tests\\Find_Newtons_Root_Tests.csproj",
         "projectName": "Find_Newtons_Root_Tests",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\Creating_Types\\Find_Newtons_Root_Tests\\Find_Newtons_Root_Tests.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\Creating_Types\\Find_Newtons_Root_Tests\\obj\\",
+        "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root_Tests\\Find_Newtons_Root_Tests.csproj",
+        "packagesPath": "C:\\Users\\amankeldy_zh\\.nuget\\packages\\",
+        "outputPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root_Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\amankeldy_zh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -88,8 +92,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\Admin\\source\\repos\\Creating_Types\\Find_Newtons_Root\\Find_Newtons_Root.csproj": {
-                "projectPath": "C:\\Users\\Admin\\source\\repos\\Creating_Types\\Find_Newtons_Root\\Find_Newtons_Root.csproj"
+              "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root\\Find_Newtons_Root.csproj": {
+                "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root\\Find_Newtons_Root.csproj"
               }
             }
           }
