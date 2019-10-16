@@ -1439,14 +1439,14 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "Buble_Sort_Array/1.0.0": {
+      "02_Bubble_Sort_Array/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "bin/placeholder/Buble_Sort_Array.dll": {}
+          "bin/placeholder/02_Bubble_Sort_Array.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Buble_Sort_Array.dll": {}
+          "bin/placeholder/02_Bubble_Sort_Array.dll": {}
         }
       }
     }
@@ -5201,15 +5201,15 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "Buble_Sort_Array/1.0.0": {
+    "02_Bubble_Sort_Array/1.0.0": {
       "type": "project",
-      "path": "../Buble_Sort_Array/Buble_Sort_Array.csproj",
-      "msbuildProject": "../Buble_Sort_Array/Buble_Sort_Array.csproj"
+      "path": "../Buble_Sort_Array/02_Bubble_Sort_Array.csproj",
+      "msbuildProject": "../Buble_Sort_Array/02_Bubble_Sort_Array.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
-      "Buble_Sort_Array >= 1.0.0",
+      "02_Bubble_Sort_Array >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.2.0",
       "NUnit3TestAdapter >= 3.13.0",
       "nunit >= 3.12.0"
@@ -5223,9 +5223,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Bubble_Sort_Array_Tests\\Bubble_Sort_Array_Tests.csproj",
-      "projectName": "Bubble_Sort_Array_Tests",
-      "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Bubble_Sort_Array_Tests\\Bubble_Sort_Array_Tests.csproj",
+      "projectUniqueName": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Bubble_Sort_Array_Tests\\03_Bubble_Sort_Array_Tests.csproj",
+      "projectName": "03_Bubble_Sort_Array_Tests",
+      "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Bubble_Sort_Array_Tests\\03_Bubble_Sort_Array_Tests.csproj",
       "packagesPath": "C:\\Users\\amankeldy_zh\\.nuget\\packages\\",
       "outputPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Bubble_Sort_Array_Tests\\obj\\",
       "projectStyle": "PackageReference",
@@ -5248,8 +5248,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Buble_Sort_Array\\Buble_Sort_Array.csproj": {
-              "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Buble_Sort_Array\\Buble_Sort_Array.csproj"
+            "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Buble_Sort_Array\\02_Bubble_Sort_Array.csproj": {
+              "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Buble_Sort_Array\\02_Bubble_Sort_Array.csproj"
             }
           }
         }

@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29403.142
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find_Newtons_Root", "Find_Newtons_Root\Find_Newtons_Root.csproj", "{8D59B351-0BDF-4787-A440-32AA2A68026D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_Find_Newtons_Root", "Find_Newtons_Root\01_Find_Newtons_Root.csproj", "{8D59B351-0BDF-4787-A440-32AA2A68026D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find_Newtons_Root_Tests", "Find_Newtons_Root_Tests\Find_Newtons_Root_Tests.csproj", "{BDAADC88-F6A2-4533-BB80-BB678BEC46E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_Find_Newtons_Root_Tests", "Find_Newtons_Root_Tests\01_Find_Newtons_Root_Tests.csproj", "{BDAADC88-F6A2-4533-BB80-BB678BEC46E6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Buble_Sort_Array", "Buble_Sort_Array\Buble_Sort_Array.csproj", "{5EEEA378-BA83-4DAB-93F6-B10C51D9EF75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_Bubble_Sort_Array", "Buble_Sort_Array\02_Bubble_Sort_Array.csproj", "{5EEEA378-BA83-4DAB-93F6-B10C51D9EF75}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find_Newtons_Root_MSTests", "Find_Newtons_Root_MSTests\Find_Newtons_Root_MSTests.csproj", "{44B97C7E-E488-4F7A-89C1-2089FE8E0EC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_Find_Newtons_Root_MSTests", "Find_Newtons_Root_MSTests\01_Find_Newtons_Root_MSTests.csproj", "{44B97C7E-E488-4F7A-89C1-2089FE8E0EC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bubble_Sort_Array_Tests", "Bubble_Sort_Array_Tests\Bubble_Sort_Array_Tests.csproj", "{4CE19BA8-9003-4E1C-BBC5-3E65E0884AB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_Bubble_Sort_Array_Tests", "Bubble_Sort_Array_Tests\03_Bubble_Sort_Array_Tests.csproj", "{4CE19BA8-9003-4E1C-BBC5-3E65E0884AB0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

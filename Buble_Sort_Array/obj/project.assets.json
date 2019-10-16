@@ -185,9 +185,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Buble_Sort_Array\\Buble_Sort_Array.csproj",
-      "projectName": "Buble_Sort_Array",
-      "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Buble_Sort_Array\\Buble_Sort_Array.csproj",
+      "projectUniqueName": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Buble_Sort_Array\\02_Bubble_Sort_Array.csproj",
+      "projectName": "02_Bubble_Sort_Array",
+      "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Buble_Sort_Array\\02_Bubble_Sort_Array.csproj",
       "packagesPath": "C:\\Users\\amankeldy_zh\\.nuget\\packages\\",
       "outputPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Buble_Sort_Array\\obj\\",
       "projectStyle": "PackageReference",

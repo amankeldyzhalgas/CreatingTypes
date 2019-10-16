@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root_Tests\\Find_Newtons_Root_Tests.csproj": {}
+    "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root_Tests\\01_Find_Newtons_Root_Tests.csproj": {}
   },
   "projects": {
     "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root\\01_Find_Newtons_Root.csproj": {
@@ -64,12 +64,12 @@
         }
       }
     },
-    "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root_Tests\\Find_Newtons_Root_Tests.csproj": {
+    "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root_Tests\\01_Find_Newtons_Root_Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root_Tests\\Find_Newtons_Root_Tests.csproj",
-        "projectName": "Find_Newtons_Root_Tests",
-        "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root_Tests\\Find_Newtons_Root_Tests.csproj",
+        "projectUniqueName": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root_Tests\\01_Find_Newtons_Root_Tests.csproj",
+        "projectName": "01_Find_Newtons_Root_Tests",
+        "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root_Tests\\01_Find_Newtons_Root_Tests.csproj",
         "packagesPath": "C:\\Users\\amankeldy_zh\\.nuget\\packages\\",
         "outputPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root_Tests\\obj\\",
         "projectStyle": "PackageReference",

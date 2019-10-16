@@ -2030,14 +2030,14 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "Find_Newtons_Root/1.0.0": {
+      "01_Find_Newtons_Root/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "bin/placeholder/Find_Newtons_Root.dll": {}
+          "bin/placeholder/01_Find_Newtons_Root.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Find_Newtons_Root.dll": {}
+          "bin/placeholder/01_Find_Newtons_Root.dll": {}
         }
       }
     }
@@ -6786,15 +6786,15 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "Find_Newtons_Root/1.0.0": {
+    "01_Find_Newtons_Root/1.0.0": {
       "type": "project",
-      "path": "../Find_Newtons_Root/Find_Newtons_Root.csproj",
-      "msbuildProject": "../Find_Newtons_Root/Find_Newtons_Root.csproj"
+      "path": "../Find_Newtons_Root/01_Find_Newtons_Root.csproj",
+      "msbuildProject": "../Find_Newtons_Root/01_Find_Newtons_Root.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
-      "Find_Newtons_Root >= 1.0.0",
+      "01_Find_Newtons_Root >= 1.0.0",
       "MSTest.TestAdapter >= 1.4.0",
       "MSTest.TestFramework >= 1.4.0",
       "Microsoft.NET.Test.Sdk >= 16.2.0",
@@ -6809,9 +6809,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root_MSTests\\Find_Newtons_Root_MSTests.csproj",
-      "projectName": "Find_Newtons_Root_MSTests",
-      "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root_MSTests\\Find_Newtons_Root_MSTests.csproj",
+      "projectUniqueName": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root_MSTests\\01_Find_Newtons_Root_MSTests.csproj",
+      "projectName": "01_Find_Newtons_Root_MSTests",
+      "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root_MSTests\\01_Find_Newtons_Root_MSTests.csproj",
       "packagesPath": "C:\\Users\\amankeldy_zh\\.nuget\\packages\\",
       "outputPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root_MSTests\\obj\\",
       "projectStyle": "PackageReference",
@@ -6834,8 +6834,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root\\Find_Newtons_Root.csproj": {
-              "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root\\Find_Newtons_Root.csproj"
+            "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root\\01_Find_Newtons_Root.csproj": {
+              "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root\\01_Find_Newtons_Root.csproj"
             }
           }
         }

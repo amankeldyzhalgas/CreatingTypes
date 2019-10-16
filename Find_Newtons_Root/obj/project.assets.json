@@ -185,9 +185,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root\\Find_Newtons_Root.csproj",
-      "projectName": "Find_Newtons_Root",
-      "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root\\Find_Newtons_Root.csproj",
+      "projectUniqueName": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root\\01_Find_Newtons_Root.csproj",
+      "projectName": "01_Find_Newtons_Root",
+      "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root\\01_Find_Newtons_Root.csproj",
       "packagesPath": "C:\\Users\\amankeldy_zh\\.nuget\\packages\\",
       "outputPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root\\obj\\",
       "projectStyle": "PackageReference",

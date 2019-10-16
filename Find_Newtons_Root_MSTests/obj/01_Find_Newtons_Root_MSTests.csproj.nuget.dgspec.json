@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root_Tests\\Find_Newtons_Root_Tests.csproj": {}
+    "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root_MSTests\\01_Find_Newtons_Root_MSTests.csproj": {}
   },
   "projects": {
     "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root\\01_Find_Newtons_Root.csproj": {
@@ -64,14 +64,14 @@
         }
       }
     },
-    "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root_Tests\\Find_Newtons_Root_Tests.csproj": {
+    "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root_MSTests\\01_Find_Newtons_Root_MSTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root_Tests\\Find_Newtons_Root_Tests.csproj",
-        "projectName": "Find_Newtons_Root_Tests",
-        "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root_Tests\\Find_Newtons_Root_Tests.csproj",
+        "projectUniqueName": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root_MSTests\\01_Find_Newtons_Root_MSTests.csproj",
+        "projectName": "01_Find_Newtons_Root_MSTests",
+        "projectPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root_MSTests\\01_Find_Newtons_Root_MSTests.csproj",
         "packagesPath": "C:\\Users\\amankeldy_zh\\.nuget\\packages\\",
-        "outputPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root_Tests\\obj\\",
+        "outputPath": "G:\\Мои документы\\Рабочий стол\\Epam\\Tasks\\CreatingTypes\\Find_Newtons_Root_MSTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -107,17 +107,21 @@
       "frameworks": {
         "netcoreapp3.0": {
           "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[16.2.0, )"
             },
-            "NUnit3TestAdapter": {
+            "coverlet.collector": {
               "target": "Package",
-              "version": "[3.13.0, )"
-            },
-            "nunit": {
-              "target": "Package",
-              "version": "[3.12.0, )"
+              "version": "[1.0.1, )"
             }
           },
           "imports": [

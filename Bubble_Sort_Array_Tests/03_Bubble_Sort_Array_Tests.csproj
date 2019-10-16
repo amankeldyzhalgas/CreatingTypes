@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.0</TargetFramework>
@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Buble_Sort_Array\Buble_Sort_Array.csproj" />
+    <ProjectReference Include="..\Buble_Sort_Array\02_Bubble_Sort_Array.csproj" />
   </ItemGroup>
 
 </Project>
